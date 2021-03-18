@@ -3,6 +3,6 @@
 Some description!
 
 ## Subheader
-New feature
+It is New feature
 
 watch tutorial on Youtube
